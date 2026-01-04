@@ -1,1 +1,1 @@
-# test-platform-reference
+# Test Platform reference project.
